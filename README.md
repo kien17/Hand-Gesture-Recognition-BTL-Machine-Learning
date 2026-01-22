@@ -15,7 +15,7 @@ Dự án bao gồm và so sánh các mô hình sau:
 
 ## Đánh giá mô hình (Evaluation)
 
-Để huấn luyện và đánh giá các mô hình, chạy lệnh sau:
+Để đánh giá các mô hình, chạy lệnh sau:
 
 ```bash
 python main.py
