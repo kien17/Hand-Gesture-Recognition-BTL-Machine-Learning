@@ -1,0 +1,28 @@
+===== GENETIC ALGORITHM LOG =====
+Population size: 12
+Generations: 20
+
+Gen 01 | Acc = 0.98490 | Params = {'max_depth': 24, 'min_samples_leaf': 6, 'n_estimators': 63, 'max_samples': 0.9782762221717265} | NEW BEST
+Gen 02 | Acc = 0.98490 | Params = {'max_depth': 24, 'min_samples_leaf': 6, 'n_estimators': 63, 'max_samples': 0.9782762221717265} | OK
+Gen 03 | Acc = 0.98501 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.7338866260921566} | NEW BEST
+Gen 04 | Acc = 0.98541 | Params = {'max_depth': 58, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.9023758760184024} | NEW BEST
+Gen 05 | Acc = 0.98541 | Params = {'max_depth': 58, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.9023758760184024} | OK
+Gen 06 | Acc = 0.98541 | Params = {'max_depth': 58, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.9023758760184024} | OK
+Gen 07 | Acc = 0.98541 | Params = {'max_depth': 58, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.9023758760184024} | OK
+Gen 08 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | NEW BEST
+Gen 09 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 10 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 11 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 12 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 13 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 14 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 15 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 16 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 17 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 18 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 19 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+Gen 20 | Acc = 0.98552 | Params = {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908} | OK
+
+===== FINAL RESULT =====
+Best Acc: 0.98552
+Best Params: {'max_depth': 37, 'min_samples_leaf': 6, 'n_estimators': 94, 'max_samples': 0.914651788560908}
