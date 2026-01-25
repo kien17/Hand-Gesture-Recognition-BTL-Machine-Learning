@@ -1,0 +1,109 @@
+===== KNN RESULTS =====
+Accuracy  : 0.9946
+Precision : 0.9946
+Recall    : 0.9946
+F1-score  : 0.9946
+Predict time: 3.0923 seconds
+
+KNN Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9934    0.9884    0.9909      2422
+           1     0.9956    0.9932    0.9944      2515
+           2     0.9971    0.9959    0.9965      2435
+           3     0.9976    0.9996    0.9986      2482
+           4     0.9883    0.9941    0.9912      2376
+           5     0.9904    0.9929    0.9917      2395
+           6     0.9996    0.9979    0.9987      2383
+
+    accuracy                         0.9946     17008
+   macro avg     0.9946    0.9946    0.9946     17008
+weighted avg     0.9946    0.9946    0.9946     17008
+
+===== GA-OPTIMIZED ADABOOST RESULTS =====
+Accuracy     : 0.9948
+Precision    : 0.9948
+Recall       : 0.9948
+F1-score     : 0.9948
+Predict time : 0.2429 seconds
+
+GA-AdaBoost Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9959    0.9917    0.9938      2422
+           1     0.9948    0.9920    0.9934      2515
+           2     0.9955    0.9963    0.9959      2435
+           3     0.9976    0.9992    0.9984      2482
+           4     0.9908    0.9949    0.9929      2376
+           5     0.9904    0.9937    0.9921      2395
+           6     0.9983    0.9954    0.9968      2383
+
+    accuracy                         0.9948     17008
+   macro avg     0.9948    0.9948    0.9948     17008
+weighted avg     0.9948    0.9948    0.9948     17008
+
+===== GA-OPTIMIZED BAGGING RESULTS =====
+Accuracy     : 0.9900
+Precision    : 0.9900
+Recall       : 0.9900
+F1-score     : 0.9900
+Predict time : 3.1440 seconds
+
+GA-Bagging Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9859    0.9818    0.9839      2422
+           1     0.9948    0.9909    0.9928      2515
+           2     0.9926    0.9922    0.9924      2435
+           3     0.9916    0.9964    0.9940      2482
+           4     0.9828    0.9886    0.9857      2376
+           5     0.9871    0.9879    0.9875      2395
+           6     0.9949    0.9920    0.9935      2383
+
+    accuracy                         0.9900     17008
+   macro avg     0.9900    0.9900    0.9900     17008
+weighted avg     0.9900    0.9900    0.9900     17008
+
+===== SVM (RBF) RESULTS =====
+Accuracy     : 0.9956
+Precision    : 0.9956
+Recall       : 0.9956
+F1-score     : 0.9956
+Predict time : 4.0507 seconds
+
+SVM Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9979    0.9926    0.9952      2422
+           1     0.9956    0.9944    0.9950      2515
+           2     0.9967    0.9971    0.9969      2435
+           3     0.9972    0.9996    0.9984      2482
+           4     0.9920    0.9958    0.9939      2376
+           5     0.9900    0.9942    0.9921      2395
+           6     1.0000    0.9958    0.9979      2383
+
+    accuracy                         0.9956     17008
+   macro avg     0.9956    0.9956    0.9956     17008
+weighted avg     0.9957    0.9956    0.9957     17008
+
+===== NAIVE BAYES RESULTS =====
+Accuracy     : 0.8263
+Precision    : 0.8531
+Recall       : 0.8254
+F1-score     : 0.8278
+Predict time : 0.0540 seconds
+
+Bayes Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.8784    0.6709    0.7608      2422
+           1     0.9944    0.9897    0.9920      2515
+           2     0.6120    0.9326    0.7390      2435
+           3     0.9065    0.7812    0.8392      2482
+           4     0.7356    0.9108    0.8138      2376
+           5     0.9454    0.7875    0.8592      2395
+           6     0.8994    0.7050    0.7904      2383
+
+    accuracy                         0.8263     17008
+   macro avg     0.8531    0.8254    0.8278     17008
+weighted avg     0.8539    0.8263    0.8287     17008
