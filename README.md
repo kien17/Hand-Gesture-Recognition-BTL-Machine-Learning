@@ -4,6 +4,8 @@
 
 Dự án này tập trung vào bài toán **Hand Gesture Recognition** sử dụng các phương pháp **Machine Learning truyền thống**, kết hợp với trích xuất đặc trưng từ hình ảnh bàn tay.
 
+Nguồn Datasets: https://www.kaggle.com/datasets/kapitanov/hagrid
+
 ## Các giải thuật sử dụng
 
 Dự án bao gồm và so sánh các mô hình sau:
