@@ -9,7 +9,8 @@ from mediapipe.tasks.python import vision
 
 # MODEL_KNN_PATH = 'knn_model.pkl' 
 # MODEL_KNN_PATH = 'svm_hand_gesture.pkl' 
-MODEL_KNN_PATH = 'adaboost_GA_best.pkl' 
+# MODEL_KNN_PATH = 'adaboost_GA_best.pkl' 
+MODEL_KNN_PATH = 'bagging_GA_best.pkl'
 
 TASK_FILE_PATH = 'hand_landmarker.task' 
 
