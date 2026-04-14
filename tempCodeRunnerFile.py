@@ -1,0 +1,1 @@
+PATH = 'knn_model.pkl' 
